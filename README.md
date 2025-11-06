@@ -1,8 +1,8 @@
 ### 👋 Hey there, I’m ReddyPrasad  
 
-💻 **Java Backend Developer** with 4+ years of experience at **Accenture**, building scalable backend systems using **Spring Boot**, **REST APIs**, and **Microservices**.  
-🚀 Currently exploring **AI**, **System Design**, and **Software Architecture** to create intelligent, efficient, and future-ready applications.  
-🧩 Focused on writing clean, maintainable, and high-performance code that scales.  
+💻 **Java Backend Developer** with 4+ years of experience at **Accenture**, building scalable, high-performance systems using **Spring Boot**, **REST APIs**, and **Microservices**.  
+🧠 Currently exploring **Artificial Intelligence** and **System Design**, combining intelligent automation with strong backend architecture.  
+🚀 Passionate about clean code, efficient design, and continuous learning to grow into a high-impact engineering role.  
 
 ---
 
