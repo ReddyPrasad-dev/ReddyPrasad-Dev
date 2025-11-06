@@ -1,16 +1,39 @@
-## Hi there 👋
+### 👋 Hey there, I’m ReddyPrasad  
 
-<!--
-**ReddyPrasad-dev/ReddyPrasad-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Backend Developer** with 4+ years of experience at **Accenture**, building scalable backend systems using **Spring Boot**, **REST APIs**, and **Microservices**.  
+🚀 Currently exploring **AI**, **System Design**, and **Software Architecture** to create intelligent, efficient, and future-ready applications.  
+🧩 Focused on writing clean, maintainable, and high-performance code that scales.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+**Languages:** Java, Python, SQL  
+**Frameworks:** Spring Boot, Hibernate  
+**Tools & Platforms:** Git, Docker, Jenkins, Postman  
+**Concepts:** Microservices, REST API Design, DSA, Algorithms  
+
+---
+
+### 🔭 Current Focus
+- Advancing backend architecture and performance optimization  
+- Learning **DSA** and **System Design** for large-scale applications  
+- Experimenting with **AI** and **ML** integration in backend systems  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReddyPrasad-Dev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyPrasad-Dev&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Contact
+📧 [bathaloorireddyprasad99@gmail.com](mailto:bathaloorireddyprasad99@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/bathalooriReddyPrasad)  
+
+---
+
+⭐ *“Code is only as good as the thought behind it.”*  
